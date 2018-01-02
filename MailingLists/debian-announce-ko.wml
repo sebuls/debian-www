@@ -1,13 +1,13 @@
 #use wml::debian::template title="debian-announce 리스트 가입하기"
 #
-# Updated: 황병희 <soyeomul@doraji.xyz>, 2018-01-02
+# Updated: Byung-Hee HWANG <soyeomul@doraji.xyz>, 2018-01-02
 
 <p>"debian-announce"는 특별한 통제를 받는
 <a href="http://foldoc.org/mailing+list">메일링 리스트</a>입니다.
  이 리스트는 데비안 공동체의 공통 관심사에 관한 공지사항들을 방송하는데에 활용됩니다.
 
 <P>debian-announce에 가입하려면, 
-<a href="./#subunsub">메일링 리스트 웹페이지</a>의 설명서를 따라주거나, 간단히 아래의 
+<a href="./#subunsub">메일링 리스트 웹문서</a>의 설명서를 따라주거나, 간단히 아래의 
 자동가입양식을 쓸 수도 있습니다.
 
 <p>반드시 확인 답장을 주셔야 가입 완료가 이루어집니다. 이는 무단 가입으로부터 기존 가입자들을
