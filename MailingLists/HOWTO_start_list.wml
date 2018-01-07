@@ -25,8 +25,8 @@
 </ul> 
 
 <p>두가지 선결 조건이 다 갖춰지면, 
-가상-패키지(pseudo-package)인 
-<code><a href="https://bugs.debian.org/lists.debian.org">lists.debian.org</a></code>
+가상-패키지(pseudo-package)로써, 
+ <code><a href="https://bugs.debian.org/lists.debian.org">lists.debian.org</a></code>
 를 상대로 <em>wishlist</em>(보고서의 처리 우선순위를 나타내는 표시)를 내용에 적어서 <a href="$(HOME)/Bugs/Reporting">버그 보고서</a>를 
 제출하므로써 적절한 요청이 이루어집니다.</p>
 
